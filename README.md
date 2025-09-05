@@ -2,24 +2,7 @@
 
 ## 🎯 Objetivo do Projeto
 
-Olá! Meu nome é **Lucas Matarelli**, sou aluno do curso de Análise e Desenvolvimento de Sistemas (ADS). Desenvolvi esta API RESTful simples com **Spring Boot** para demonstrar, na prática, as operações de **CRUD** (Criar, Ler, Atualizar, Deletar) em uma lista de alunos. O projeto foi feito para cumprir os requisitos da disciplina e mostrar minha compreensão da arquitetura MVC.
-
-## 📁 Estrutura do Projeto
-
-O projeto segue a estrutura padrão de um projeto Spring Boot, organizada em pacotes para separar as responsabilidades:
-
-src/
-└── main/
-    └── java/
-        └── com/
-            └── exemplo/
-                ├── model/
-                │   └── Aluno.java
-                ├── service/
-                │   └── AlunoService.java
-                └── controller/
-                    └── AlunoController.java
-
+Meu nome é **Lucas Matarelli**, sou aluno do curso de Análise e Desenvolvimento de Sistemas (ADS). Desenvolvi esta API RESTful simples com **Spring Boot** para demonstrar, na prática, as operações de **CRUD** (Criar, Ler, Atualizar, Deletar) em uma lista de alunos. O projeto foi feito para cumprir os requisitos da disciplina e mostrar minha compreensão da arquitetura MVC.
 
 ## 🚀 Como Rodar a Aplicação
 
