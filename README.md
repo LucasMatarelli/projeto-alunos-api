@@ -2,7 +2,7 @@
 
 ## 🎯 Objetivo do Projeto
 
-Meu nome é **Lucas Matarelli**, sou aluno do curso de Análise e Desenvolvimento de Sistemas (ADS) e desenvolvi esta API RESTful simples para demonstrar minhas habilidades. O objetivo do projeto foi criar uma API que realiza operações de **CRUD** (Criar, Ler, Atualizar, Deletar) em uma lista de alunos, sem usar um banco de dados, mantendo os dados em memória.
+Olá! Meu nome é **Lucas Matarelli**, sou aluno do curso de Análise e Desenvolvimento de Sistemas (ADS). Desenvolvi esta API RESTful simples com **Spring Boot** para demonstrar, na prática, as operações de **CRUD** (Criar, Ler, Atualizar, Deletar) em uma lista de alunos. O projeto foi feito para cumprir os requisitos da disciplina e mostrar minha compreensão da arquitetura MVC.
 
 ## 📁 Estrutura do Projeto
 
